@@ -7,7 +7,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 0**
+**Total solved: 1**
 
 ## Codeforces
 
@@ -24,11 +24,11 @@ Solutions by [anspreet10singh](https://codeforces.com/profile/anspreet10singh), 
 
 Solutions organized by primary topic folder.
 
-**Solved: 0**
+**Solved: 1**
 
 | Topic | Solved |
 | --- | --- |
-| — | 0 |
+| [array](./leetcode/array) | 1 |
 
 
 ## CSES
